@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,99 +40,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Dotmatics](https://www.dotmatics.com/)**  
-
-  Scientific informatics and data management platform with ELN, data harmonization, and analytics focused on chemistry and biology R&D.
-
-
-
-- **[IDBS (Polar / E-WorkBook)](https://www.idbs.com/)**  
-
-  Enterprise ELN and data management for regulated R&D, with structured templates, workflow execution, and cloud offerings under the Polar brand.
-
-
-
-- **[LabKey](https://www.labkey.com/)**  
-
-  Research data management and biobank/specimen platform (Community Edition is open source; commercial support and hosted options available).
-
-
-
-- **[Scispot](https://www.scispot.com/)**  
-
-  Modern cloud platform combining SDMS, LIMS, and ELN features with AI automation and integrations for biotech labs.
-
-
-
-- **[Benchling](https://www.benchling.com/)**  
-
-  Leading R&D cloud for life sciences — schema-driven ELN, molecular biology tools, registry, inventory, and collaboration for biotech teams.
-
-
-
-- **[TetraScience](https://tetrascience.com/)**  
-
-  Scientific data and AI platform focused on instrument data integration, harmonization, and making lab data AI-ready.
-
-
-
-- **[Revvity Signals (Signals Notebook)](https://www.revvity.com/)**  
-
-  Signals Notebook and related informatics for experiment capture, data analysis, and collaboration in life sciences R&D.
-
-
-
-- **[Genedata](https://www.genedata.com/)**  
-
-  Enterprise software for large-scale experimental data management, analysis, and decision support in biopharma R&D.
-
-
-
-- **[LabVantage](https://www.labvantage.com/)**  
-
-  Enterprise LIMS and lab informatics platform for sample management, workflows, and quality in regulated environments.
-
-
-
-- **[LabArchives](https://www.labarchives.com/)**  
-
-  Widely used ELN for academic and research labs with notebooks, audit trails, sharing, and institutional offerings.
-
-
-
-- **[eLabNext](https://www.elabnext.com/)**  
-
-  Lab management platform combining ELN, sample management, and inventory for research and biotech teams.
-
-
-
-- **[Collaborative Drug Discovery (CDD Vault)](https://www.collaborativedrug.com/)**  
-
-  Secure, collaborative platform for chemical and biological data management, registration, and sharing in drug discovery.
-
-
-
-- **[BioRAFT / related EHS & lab platforms](https://www.bioraft.com/)**  
-
-  Lab safety, compliance, and operational tools that often integrate with broader scientific data workflows.
-
-
-
-- **[SciNote (commercial tiers)](https://www.scinote.net/)**  
-
-  Lab management system with ELN, inventory, and project features (open-source core with paid Premium/Enterprise).
-
-
-
-- **[Labguru](https://www.labguru.com/)**  
-
-  ELN and lab management platform popular with growing biotech and academic groups for experiments, inventory, and protocols.
-
-
-
-- **[Scitara / SciSure and emerging platforms](https://www.scisure.com/)**  
-
-  Modern lab data and ELN-oriented solutions focused on connectivity, ease of use, and operational ROI.
+| Platform | Description | Pricing (Starting / Base Tiers) | Free Tier Limits / Free Trial Details |
+| :--- | :--- | :--- | :--- |
+| **[Benchling](https://www.benchling.com/)** | Leading R&D cloud for life sciences featuring schema-driven ELN, molecular biology tools, registry, and inventory. | Starts at ~$15,000–$20,000/year (Startup program: ~$15k/year for ≤15 scientists & <$25M funding; Enterprise tiers scale higher) | **Free forever plan for academia**: full ELN and molecular biology design tools (excludes commercial Registry, Inventory, and workflow automation modules) |
+| **[LabArchives](https://www.labarchives.com/)** | Widely used cloud ELN, inventory, and scheduler for academic, government, and biotech research labs. | ELN starts at ~$99–$140/user/year (Academic) and ~$330–$575/user/year (Commercial); Inventory add-on from $99/user/year (Academic) / $199/user/year (Commercial) | **Free forever plan (ELN Free Edition)**: max 2 notebooks, 1 GB total storage, max 25 MB per file upload (Scheduler Free: up to 5 users/resources; Inventory: 90-day free trial) |
+| **[LabKey](https://www.labkey.com/)** | Research data management and specimen platform with cloud-hosted LIMS and biobank options. | Hosted Sample Manager Starter starts at $6,540/year (up to 5 users); SDMS Cloud Starter hosting from $5,000/year; LIMS Starter from $34,080/year (10 users) | **Free forever Community Edition**: open-source self-managed Apache 2.0 license (no cloud hosting or official SLA); **30-day free trial** available upon demo request for cloud editions |
+| **[eLabNext](https://www.elabnext.com/)** | Lab management suite combining eLABJournal (ELN), eLABInventory, and sample tracking (part of SciSure). | Academic cloud tiers start from €12.95/user/month (~€155/user/year); Industry cloud tiers start from €34.95/user/month (~€420/user/year) | **30-day free trial** with full access to ELN, inventory, and sample tracking features (no perpetual free tier) |
+| **[SciNote](https://www.scinote.net/)** | Top-rated ELN and inventory management system with GxP compliance and open-source foundation. | Paid cloud team/academic tiers start at ~$2,500–$5,000/year base depending on team size and regulatory add-ons (GxP / 21 CFR Part 11) | **Free forever plan for solo researchers**: strictly limited to 1 user (no team collaboration/sharing), max 50 MB per file attachment limit; **14-day free trial** available for Team/Enterprise plans |
+| **[Scispot](https://www.scispot.com/)** | Modern life-science cloud combining SDMS, LIMS, and ELN capabilities with AI-driven workflow automation. | Starts at ~$10/user/month (~$120/user/year) for entry seats; core lab packages start at ~$3,000–$6,000/year base subscription | **14-day free trial** with complete access to LIMS, ELN templates, and automation builder (no perpetual free tier) |
+| **[Revvity Signals (Signals Notebook)](https://www.revvity.com/)** | Cloud-native ELN and informatics platform featuring native ChemDraw integration and experiment workflows. | Standard Edition list price starts at $1,425/user/year (AWS Marketplace list contract at ~$1,325/user/year; implementation packages from ~$6,700) | **15-day free trial** per user for individual evaluation with ChemDraw and template features (excludes admin/enterprise tenant controls; no perpetual free tier) |
+| **[Collaborative Drug Discovery (CDD Vault)](https://www.collaborativedrug.com/)** | Secure informatics platform for chemical and biological registration, assay data management, and SAR analysis. | Starter small-molecule / biology packages typically start around $3,000–$5,000/year for small biotech/academic labs (scales with data volume and modules) | **30-day guided free trial** with private sandbox vault upon demo request; standalone CDD Visualization tool and Public Access mining are permanently free |
+| **[Labguru](https://www.labguru.com/)** | Web-based ELN, LIMS, and specimen inventory platform built for biotech teams and academic research labs. | Subscriptions typically start around $1,000/user/year (minimum team commitment usually required; entry lab packages start at ~$5,000–$10,000/year) | **14-day guided proof-of-concept trial** available upon scheduling a technical demo (no perpetual free tier) |
+| **[Dotmatics](https://www.dotmatics.com/)** | Enterprise scientific informatics suite covering ELN, screening, chemistry, and biologics workflows. | Modular enterprise licenses start at ~$15,000–$25,000/year minimum entry deployment (bundled tools like GraphPad Prism start at $520/year; Geneious Prime from $4,700/year) | **14-to-30 day guided evaluation / PoC** following technical discovery (SnapGene / GraphPad tools within portfolio offer standalone 14-day and 30-day trials; no perpetual free tier) |
+| **[IDBS (Polar / E-WorkBook)](https://www.idbs.com/)** | Regulated enterprise ELN and BioPharma lifecycle management platform for GxP/compliance environments. | Commercial deployments typically start at ~$25,000–$50,000/year base contract including infrastructure and CSV/GxP compliance modules | **30-day guided Proof-of-Concept (PoC)** sandbox environment provided during sales qualification (no perpetual free tier) |
+| **[TetraScience](https://tetrascience.com/)** | Scientific data cloud and AI platform integrating laboratory instrument pipelines and data schemas. | Annual cloud subscriptions typically start at ~$25,000–$50,000/year base platform fee plus underlying AWS cloud data infrastructure costs | **30-day guided evaluation / pilot deployment** available through enterprise consultation or AWS Marketplace private offer (no perpetual free tier) |
+| **[LabVantage](https://www.labvantage.com/)** | Enterprise LIMS and laboratory informatics system for sample tracking, biobanking, and quality control. | Hosted cloud subscriptions start at ~$250–$300/user/month (~$3,000–$3,600/user/year; enterprise lab setups start at ~$30,000–$50,000+ base) | **30-day guided sandbox demo/trial** provisioned during formal vendor evaluation (no perpetual free tier) |
+| **[Genedata](https://www.genedata.com/)** | Biopharma software for large-scale screening (Screener), biologics (Biologics), and bioprocess data. | Enterprise modular installations typically start at ~$30,000–$60,000/year annual licensing per module depending on site size | **Guided pilot / PoC evaluation** (typically 30–60 days) with customer test data following scoping consultation (no perpetual free tier) |
+| **[BioRAFT / SciShield](https://www.bioraft.com/)** | Lab safety, chemical inventory, and EHS compliance management platform (merged into SciSure). | Institutional subscriptions typically start at ~$5,000–$10,000/year base license for small facilities/departments | **30-day pilot / trial sandbox** provided during onboarding assessment and workflow scoping (no perpetual free tier) |
+| **[Scitara](https://www.scitara.com/)** | Scientific Integration Platform (SIP) and Digital Lab Exchange (DLX) for connecting instruments and lab apps. | Annual platform subscriptions typically start at ~$15,000–$20,000/year based on connection endpoints and throughput | **30-day guided integration PoC** with selected lab instrument connections upon technical qualification (no perpetual free tier) |
 
 
 
