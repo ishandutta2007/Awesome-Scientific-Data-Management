@@ -1,4 +1,9 @@
 # Awesome-Scientific-Data-Management
+<br/><br/>
+
+<a href="https://github.com/ishandutta2007/Awesome-Scientific-Data-Management">
+  <img src="./assets/banner.svg" alt="Awesome Scientific Data Management Banner" width="100%" />
+</a>
 
 ## Top Scientific Data Management Platforms Ecosystem
 
